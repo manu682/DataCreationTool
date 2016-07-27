@@ -1,0 +1,11 @@
+ #map-content {
+    height: 95%; 
+}
+
+#button-controls {
+    height: 5%;
+}
+
+label {
+    padding: 5px;
+}
